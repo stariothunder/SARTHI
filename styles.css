@@ -1,0 +1,48 @@
+/* Global Styles */
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: darkblue;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: white;
+}
+
+/* Header Styles */
+.header {
+    background-image: url('your-background-image.jpg'); /* Replace with your actual background image */
+    background-size: cover;
+    text-align: center;
+    padding: 150px 0;
+}
+
+.header h1 {
+    font-size: 3rem;
+    color: blue;
+}
+
+.header p {
+    font-size: 1.5rem;
+    color: lightblue;
+}
+
+/* Main Content Styles */
+.main-content {
+    padding: 50px;
+}
+
+/* Footer Styles */
+.footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
